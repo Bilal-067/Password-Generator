@@ -1,4 +1,14 @@
- The task is a Custom Password Generator that allows users to generate passwords with different levels of complexity and a specified length. Here's a detailed description of its components and functionality:
+Name: Mohammed Bilal M
+
+Intern id: CS25RY20902
+
+Domain name: Codsoft
+
+Stream: Python Programming
+
+Task 3: Custom password generator 
+
+The task is a Custom Password Generator that allows users to generate passwords with different levels of complexity and a specified length. Here's a detailed description of its components and functionality:
 
 1. Imports
 random: The random module is imported to generate random selections from predefined character sets to create the password.
